@@ -1,0 +1,47 @@
+#task,#filter{
+    border:solid 1px lightgray;
+    border-radius: 3px;
+}
+
+#itemp{
+    color: gray;
+}
+
+.list{
+    list-style-type: none;
+}
+
+.liclass{
+    border:solid 1px lightgrey;
+    padding:5px;
+    margin-bottom: 5px;
+    position: relative;
+}
+.btnRemove2{
+    position: absolute;
+    right: 8PX;
+    height: 60%;
+    padding: 5px;
+    line-height: 70%;
+    font-size: 20px;
+    font-weight: bold;
+
+}
+.allclear{
+    margin-top: 10px;
+    width: 100%;
+    background-color: #4f5050;
+    color: white;
+    padding: 3px;
+
+}
+.indexError{
+    font-size: 13px;
+}
+.btnupadte{
+    padding: 5px;
+    color: white;
+}
+.editMode{
+    color: gray;
+}
