@@ -1,5 +1,3 @@
-# to-do-list-new-version-
-a new version of task managers with update and search abality
 # 📝 To-Do List App (Vanilla JavaScript)
 
 یک اپلیکیشن ساده، زیبا و کاربردی برای مدیریت کارهای روزانه  
