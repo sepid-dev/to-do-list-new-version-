@@ -37,7 +37,8 @@ a new version of task managers with update and search abality
 ---
 ## 📸 Preview
 
-![To Do List Preview](images/todolist.png)
+![To Do List Preview](images/todolist.PNG)
+
 
 
 ---
