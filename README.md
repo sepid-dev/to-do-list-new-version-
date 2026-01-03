@@ -31,7 +31,16 @@ a new version of task managers with update and search abality
 - CSS Transitions & Hover Effects
 
 ---
+## 🔗 Live Demo
+👉 https://sepid-dev.github.io/to-do-list-new-version-/
 
+---
+## 📸 Preview
+
+![To Do List Preview](images/todolist.png)
+
+
+---
 ## 🚀 نحوه اجرا
 
 1. ریپازیتوری را clone کنید:
